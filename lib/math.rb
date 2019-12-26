@@ -1,5 +1,5 @@
 def addition(num1, num2)
-  Math.sum(num1, num2)
+  sum = num1 + num2
 end
 
 def subtraction(num1, num2)
@@ -7,15 +7,15 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-
+  divisor = num1 / num2
 end
 
 def multiplication(num1, num2)
-
+  blah = num1 * num2
 end
 
 def modulo(num1, num2)
-
+ divisible = num1  % num2
 end
 
 def square_root(num)
